@@ -6,6 +6,7 @@ Este repositório foi criado para armazenar códigos, projetos e materiais relac
 
 - **/Atividades:** Contém os códigos-fonte dos exercícios desenvolvidos durante o curso.
 - **/docs:** Documentação e materiais relacionados aos conceitos de POO.
+- **/Listas:** Lista de exercícios realizdas na disciplina de POO.
 
 ## Como Contribuir
 
